@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <Routes>
         <Route path="/" element={<PasswordGenerator />} />
-        <Route path="password-strength" element={<PasswordStrength />} />
+        <Route path="strength" element={<PasswordStrength />} />
       </Routes>
     </div>
   )

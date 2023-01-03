@@ -226,7 +226,7 @@ const PasswordGenerator = () => {
         </form>
       </div>
       <p>
-        <Link to="/password-strength">Password strength checker</Link> &middot;{' '}
+        <Link to="/strength">Password strength checker</Link> &middot;{' '}
         <a href="https://github.com/rsapkf/pwizard">Source</a>
       </p>
     </div>
